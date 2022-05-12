@@ -4,11 +4,11 @@ Student Management System using-python
 # About Project
 About School management system manages the information the students like their name, Dob, streams, and other personal information. Regarding to the features included :
 
-1.Taking personal information
-2.Showing the information as a record
-3.deleting the record
-4.resting fields
-5.deleting database
+1. Taking personal information
+2. Showing the information as a record
+3. deleting the record
+4. resting fields
+5. deleting database
 
 # Project Prerequisites:
 For the following projects, you need this prerequisites:
